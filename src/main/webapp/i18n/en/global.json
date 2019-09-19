@@ -7,6 +7,19 @@
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
         "main": "Entities",
+        "globalParameterMySuffix": "Global Parameter",
+        "bankCustodyMySuffix": "Bank Custody",
+        "miMySuffix": "Mi",
+        "dealerParticipantMySuffix": "Dealer Participant",
+        "etfProductMySuffix": "Etf Product",
+        "etfUnderlyingMySuffix": "Etf Underlying",
+        "etfUnderlyingDtlMySuffix": "Etf Underlying Dtl",
+        "etfHistoryMySuffix": "Etf History",
+        "subscriptMySuffix": "Subscript",
+        "redemptionMySuffix": "Redemption",
+        "etfExecutionMySuffix": "Etf Execution",
+        "etfExecutionDtlMySuffix": "Etf Execution Dtl",
+        "portofolioMySuffix": "Portofolio",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {

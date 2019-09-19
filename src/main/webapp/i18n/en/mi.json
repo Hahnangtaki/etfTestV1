@@ -1,0 +1,24 @@
+{
+  "etfTestV1App": {
+    "mi": {
+      "home": {
+        "title": "Mis",
+        "createLabel": "Create a new Mi",
+        "createOrEditLabel": "Create or edit a Mi",
+        "notFound": "No Mis found"
+      },
+      "created": "A new Mi is created with identifier {{ param }}",
+      "updated": "A Mi is updated with identifier {{ param }}",
+      "deleted": "A Mi is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Mi {{ id }}?"
+      },
+      "detail": {
+        "title": "Mi"
+      },
+      "miCode": "Mi Code",
+      "miName": "Mi Name",
+      "etfProduct": "Etf Product"
+    }
+  }
+}

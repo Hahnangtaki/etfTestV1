@@ -1,0 +1,42 @@
+{
+  "etfTestV1App": {
+    "etfProduct": {
+      "home": {
+        "title": "Etf Products",
+        "createLabel": "Create a new Etf Product",
+        "createOrEditLabel": "Create or edit a Etf Product",
+        "notFound": "No Etf Products found"
+      },
+      "created": "A new Etf Product is created with identifier {{ param }}",
+      "updated": "A Etf Product is updated with identifier {{ param }}",
+      "deleted": "A Etf Product is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Etf Product {{ id }}?"
+      },
+      "detail": {
+        "title": "Etf Product"
+      },
+      "productCode": "Product Code",
+      "productName": "Product Name",
+      "fundCategory": "Fund Category",
+      "inceptionDate": "Inception Date",
+      "clearingHouse": "Clearing House",
+      "exchage": "Exchage",
+      "unitCreation": "Unit Creation",
+      "unitPriceInitial": "Unit Price Initial",
+      "unitPriceCurr": "Unit Price Curr",
+      "lotPerBasket": "Lot Per Basket",
+      "indexReff": "Index Reff",
+      "rating": "Rating",
+      "fee": "Fee",
+      "etfUnderlying": "Etf Underlying",
+      "etfHistory": "Etf History",
+      "subscript": "Subscript",
+      "redemption": "Redemption",
+      "portofolio": "Portofolio",
+      "dealerParticipant": "Dealer Participant",
+      "mi": "Mi",
+      "bankCustody": "Bank Custody"
+    }
+  }
+}

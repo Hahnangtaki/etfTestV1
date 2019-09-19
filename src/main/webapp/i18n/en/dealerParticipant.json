@@ -1,0 +1,26 @@
+{
+  "etfTestV1App": {
+    "dealerParticipant": {
+      "home": {
+        "title": "Dealer Participants",
+        "createLabel": "Create a new Dealer Participant",
+        "createOrEditLabel": "Create or edit a Dealer Participant",
+        "notFound": "No Dealer Participants found"
+      },
+      "created": "A new Dealer Participant is created with identifier {{ param }}",
+      "updated": "A Dealer Participant is updated with identifier {{ param }}",
+      "deleted": "A Dealer Participant is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Dealer Participant {{ id }}?"
+      },
+      "detail": {
+        "title": "Dealer Participant"
+      },
+      "dealerCode": "Dealer Code",
+      "dealerName": "Dealer Name",
+      "redemption": "Redemption",
+      "subscript": "Subscript",
+      "etfProduct": "Etf Product"
+    }
+  }
+}

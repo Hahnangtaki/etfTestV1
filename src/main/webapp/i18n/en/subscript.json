@@ -1,0 +1,41 @@
+{
+  "etfTestV1App": {
+    "subscript": {
+      "home": {
+        "title": "Subscripts",
+        "createLabel": "Create a new Subscript",
+        "createOrEditLabel": "Create or edit a Subscript",
+        "notFound": "No Subscripts found"
+      },
+      "created": "A new Subscript is created with identifier {{ param }}",
+      "updated": "A Subscript is updated with identifier {{ param }}",
+      "deleted": "A Subscript is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Subscript {{ id }}?"
+      },
+      "detail": {
+        "title": "Subscript"
+      },
+      "subscriptCode": "Subscript Code",
+      "subscriptDate": "Subscript Date",
+      "customerId": "Customer Id",
+      "customerName": "Customer Name",
+      "unitBuyPriceInd": "Unit Buy Price Ind",
+      "unitBuyPrice": "Unit Buy Price",
+      "unitBuyUnit": "Unit Buy Unit",
+      "unitBuyLot": "Unit Buy Lot",
+      "unitBuyBasket": "Unit Buy Basket",
+      "market": "Market",
+      "buyGrossAmount": "Buy Gross Amount",
+      "fee": "Fee",
+      "buyNetAmount": "Buy Net Amount",
+      "statusCash": "Status Cash",
+      "statusEtf": "Status Etf",
+      "status": "Status",
+      "channel": "Channel",
+      "etfProduct": "Etf Product",
+      "dealerParticipant": "Dealer Participant",
+      "etfExecutionDtl": "Etf Execution Dtl"
+    }
+  }
+}
