@@ -1,0 +1,41 @@
+{
+  "etfTestV1App": {
+    "redemption": {
+      "home": {
+        "title": "Redemptions",
+        "createLabel": "Create a new Redemption",
+        "createOrEditLabel": "Create or edit a Redemption",
+        "notFound": "No Redemptions found"
+      },
+      "created": "A new Redemption is created with identifier {{ param }}",
+      "updated": "A Redemption is updated with identifier {{ param }}",
+      "deleted": "A Redemption is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Redemption {{ id }}?"
+      },
+      "detail": {
+        "title": "Redemption"
+      },
+      "redemptionCode": "Redemption Code",
+      "redemptionDate": "Redemption Date",
+      "customerId": "Customer Id",
+      "customerName": "Customer Name",
+      "unitSellPriceInd": "Unit Sell Price Ind",
+      "unitSellPrice": "Unit Sell Price",
+      "unitSellUnit": "Unit Sell Unit",
+      "unitSellLot": "Unit Sell Lot",
+      "unitSellBasket": "Unit Sell Basket",
+      "market": "Market",
+      "sellGrossAmount": "Sell Gross Amount",
+      "fee": "Fee",
+      "sellNetAmount": "Sell Net Amount",
+      "statusCash": "Status Cash",
+      "statusEtf": "Status Etf",
+      "status": "Status",
+      "channel": "Channel",
+      "etfProduct": "Etf Product",
+      "dealerParticipant": "Dealer Participant",
+      "etfExecutionDtl": "Etf Execution Dtl"
+    }
+  }
+}

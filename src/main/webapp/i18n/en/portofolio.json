@@ -1,0 +1,26 @@
+{
+  "etfTestV1App": {
+    "portofolio": {
+      "home": {
+        "title": "Portofolios",
+        "createLabel": "Create a new Portofolio",
+        "createOrEditLabel": "Create or edit a Portofolio",
+        "notFound": "No Portofolios found"
+      },
+      "created": "A new Portofolio is created with identifier {{ param }}",
+      "updated": "A Portofolio is updated with identifier {{ param }}",
+      "deleted": "A Portofolio is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Portofolio {{ id }}?"
+      },
+      "detail": {
+        "title": "Portofolio"
+      },
+      "customerId": "Customer Id",
+      "portofolioDate": "Portofolio Date",
+      "unit": "Unit",
+      "avgPrice": "Avg Price",
+      "etfProduct": "Etf Product"
+    }
+  }
+}

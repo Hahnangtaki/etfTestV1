@@ -1,0 +1,24 @@
+{
+  "etfTestV1App": {
+    "etfUnderlying": {
+      "home": {
+        "title": "Etf Underlyings",
+        "createLabel": "Create a new Etf Underlying",
+        "createOrEditLabel": "Create or edit a Etf Underlying",
+        "notFound": "No Etf Underlyings found"
+      },
+      "created": "A new Etf Underlying is created with identifier {{ param }}",
+      "updated": "A Etf Underlying is updated with identifier {{ param }}",
+      "deleted": "A Etf Underlying is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Etf Underlying {{ id }}?"
+      },
+      "detail": {
+        "title": "Etf Underlying"
+      },
+      "effectiveDate": "Effective Date",
+      "etfUnderlyingDtl": "Etf Underlying Dtl",
+      "etfProduct": "Etf Product"
+    }
+  }
+}
