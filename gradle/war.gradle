@@ -1,0 +1,13 @@
+apply plugin: "war"
+
+bootWar {
+    mainClassName = "id.cakra.tech.etftest.EtfTestV1App"
+    includes = ["WEB-INF/**", "META-INF/**"]
+}
+
+war {
+    webAppDirName = "build/resources/main/static/"
+    enabled = true
+    archiveExtension = "war.original"
+    includes = ["WEB-INF/**", "META-INF/**"]
+}
