@@ -1,0 +1,31 @@
+{
+  "etfTestV1App": {
+    "globalParameter": {
+      "home": {
+        "title": "Global Parameters",
+        "createLabel": "Create a new Global Parameter",
+        "createOrEditLabel": "Create or edit a Global Parameter",
+        "notFound": "No Global Parameters found"
+      },
+      "created": "A new Global Parameter is created with identifier {{ param }}",
+      "updated": "A Global Parameter is updated with identifier {{ param }}",
+      "deleted": "A Global Parameter is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Global Parameter {{ id }}?"
+      },
+      "detail": {
+        "title": "Global Parameter"
+      },
+      "prmId": "Prm Id",
+      "prmName": "Prm Name",
+      "prmType": "Prm Type",
+      "appType": "App Type",
+      "intVal": "Int Val",
+      "floatVal": "Float Val",
+      "strVal": "Str Val",
+      "dateVal": "Date Val",
+      "show": "Show",
+      "edit": "Edit"
+    }
+  }
+}

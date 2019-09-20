@@ -1,0 +1,24 @@
+{
+  "etfTestV1App": {
+    "etfUnderlyingDtl": {
+      "home": {
+        "title": "Etf Underlying Dtls",
+        "createLabel": "Create a new Etf Underlying Dtl",
+        "createOrEditLabel": "Create or edit a Etf Underlying Dtl",
+        "notFound": "No Etf Underlying Dtls found"
+      },
+      "created": "A new Etf Underlying Dtl is created with identifier {{ param }}",
+      "updated": "A Etf Underlying Dtl is updated with identifier {{ param }}",
+      "deleted": "A Etf Underlying Dtl is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Etf Underlying Dtl {{ id }}?"
+      },
+      "detail": {
+        "title": "Etf Underlying Dtl"
+      },
+      "stockCode": "Stock Code",
+      "weight": "Weight",
+      "etfUnderlying": "Etf Underlying"
+    }
+  }
+}
