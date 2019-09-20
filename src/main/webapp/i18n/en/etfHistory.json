@@ -1,0 +1,26 @@
+{
+  "etfTestV1App": {
+    "etfHistory": {
+      "home": {
+        "title": "Etf Histories",
+        "createLabel": "Create a new Etf History",
+        "createOrEditLabel": "Create or edit a Etf History",
+        "notFound": "No Etf Histories found"
+      },
+      "created": "A new Etf History is created with identifier {{ param }}",
+      "updated": "A Etf History is updated with identifier {{ param }}",
+      "deleted": "A Etf History is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Etf History {{ id }}?"
+      },
+      "detail": {
+        "title": "Etf History"
+      },
+      "valueDate": "Value Date",
+      "unitPrice": "Unit Price",
+      "unitQty": "Unit Qty",
+      "aum": "Aum",
+      "etfProduct": "Etf Product"
+    }
+  }
+}

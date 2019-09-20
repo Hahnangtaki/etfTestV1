@@ -1,0 +1,28 @@
+{
+  "etfTestV1App": {
+    "etfExecution": {
+      "home": {
+        "title": "Etf Executions",
+        "createLabel": "Create a new Etf Execution",
+        "createOrEditLabel": "Create or edit a Etf Execution",
+        "notFound": "No Etf Executions found"
+      },
+      "created": "A new Etf Execution is created with identifier {{ param }}",
+      "updated": "A Etf Execution is updated with identifier {{ param }}",
+      "deleted": "A Etf Execution is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Etf Execution {{ id }}?"
+      },
+      "detail": {
+        "title": "Etf Execution"
+      },
+      "basketOrderId": "Basket Order Id",
+      "stockCode": "Stock Code",
+      "qty": "Qty",
+      "qtyOdd": "Qty Odd",
+      "price": "Price",
+      "amount": "Amount",
+      "etfExecutionDtl": "Etf Execution Dtl"
+    }
+  }
+}
